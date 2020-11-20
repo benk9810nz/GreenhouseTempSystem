@@ -28,6 +28,4 @@ The third script (project.py) is the script which collects and records the data 
 <p>
 The fourth and final script (tempsystem.sh) is a small Bash Script, allowing the python scripts to be launched automatically by running this script. This is used on the Raspberry Pi to allow the user to automatically launch the scipts on startup.
 </p>
-<figure class="video_container">
   <iframe src="https://youtu.be/HdIvgRtLvS0" frameborder="0" allowfullscreen="true"> </iframe>
-</figure>
